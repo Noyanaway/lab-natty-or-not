@@ -20,23 +20,47 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Contos da Fornalha ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve descrição do seu projeto: Aqui está um roteiro dinâmico e envolvente para um podcast de aproximadamente 1 minuto e meio, perfeito para prender a atenção do ouvinte com uma atmosfera aconchegante e, ao mesmo tempo, perigosa.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Copilot(imagem e personagens)  Microsoft clipchamp (audio e sons) Gemini: (historia e roteiro)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em uma história, envolvendo personagens que gosto muito nos mundos dos games, e também filmes vai, um ogro e um anão, já com trila sonora de terror, como em alguns jogos de terror.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+Roteiro: Contos da Fornalha
+(SFX: Som forte de brasas estalando e o metal da fornalha aquecendo)
+
+Gorak: (Voz calma, rindo levemente)
+Mais um pouco de lenha, Pingo? A noite na borda da selva não costuma aliviar para quem vacila. Senta mais perto.
+
+Pingo: (Esfregando as mãos pelo calor)
+Pode apostar, Gorak! Minhas botas ainda pingam a lama daquele pântano das Sombras. Sabe... quem vê essa calmaria de hoje nem imagina o que rasteja por entre aquelas raízes gigantes lá dentro.
+
+Gorak:
+Ah, a floresta não perdoa os imprudentes. Lembra da semana passada, quando aquela névoa ácida desceu do planalto? Se a gente não tivesse improvisado aquela barragem de troncos, o acampamento inteiro teria virado adubo.
+
+Pingo:
+E foi heroísmo puro! Você segurando aquela viga de carvalho com as duas mãos, enquanto os insetos gigantescos zuniam nas nossas orelhas... Eu achei que íamos virar jantar de carniçeiro.
+
+Gorak:
+Foi por pouco. Mas a selva testa a gente é para mostrar do que somos feitos. Como daquela vez que você entrou sozinho na gruta dos cipós estranguladores para puxar o garoto perdido... aquilo sim foi coragem de verdade para um anão do teu tamanho.
+
+Pingo:(Dá uma risada orgulhosa)
+Ah, o tamanho não importa quando a causa é nobre, meu velho amigo! O importante é que a fornalha continua acesa, a gente está vivo e a floresta que lute com a gente amanhã de novo.
+
+Gorak:(Sorrindo)
+Isso aí. Pegue mais um pedaço de carne seca. Amanhã o mato volta a nos chamar.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Muito legal, gostei demais!
 
 ### Exemplos e Insigths
 
