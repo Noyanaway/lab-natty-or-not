@@ -1,5 +1,3 @@
-DIO e falvojr
-
 <img width="1024" height="1536" alt="Designer" src="https://github.com/user-attachments/assets/a75a4275-502e-44fa-a77c-fb30ca5b0051" />
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
