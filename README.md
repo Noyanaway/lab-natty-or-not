@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="Designer" src="https://github.com/user-attachments/assets/a75a4275-502e-44fa-a77c-fb30ca5b0051" />
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -35,6 +36,9 @@ Pensei em uma história, envolvendo personagens que gosto muito nos mundos dos g
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 Roteiro: Contos da Fornalha
+https://drive.google.com/file/d/1z5bHHUBqLU8ZjAKS_u3xGQtxArQPpsNV/view?usp=drive_open
+https://drive.google.com/file/d/1TAvZK4-EHV6a6ElSuEuUe3DaUDxRIJTE/view
+Roteiro: Contos da Fornalha
 (SFX: Som forte de brasas estalando e o metal da fornalha aquecendo)
 
 Gorak: (Voz calma, rindo levemente)
@@ -57,6 +61,8 @@ Ah, o tamanho não importa quando a causa é nobre, meu velho amigo! O important
 
 Gorak:(Sorrindo)
 Isso aí. Pegue mais um pedaço de carne seca. Amanhã o mato volta a nos chamar.
+
+(SFX: O som da fornalha aumenta levemente enquanto a trilha sonora encerra com um acorde misterioso e aventureiro).
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
